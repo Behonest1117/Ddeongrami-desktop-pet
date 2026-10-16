@@ -104,10 +104,9 @@ GitHub｜**Behonest1117/Pocketeez**
 
 <img src="find-me.png" width="200" alt="Ddeongrami interface">
 
-</div>
-
 ### Keep shining with Ddeongrami ✦
 
+</div>
 ---
 
 <sub>本项目为非商业粉丝自制作品，并非官方产品，与艺人及所属公司无官方关联。  
