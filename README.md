@@ -46,7 +46,7 @@ Ddeongrami 会有不同的反应 ♡
 
 <div align="center">
 
-<img src="Ddeongrami interface.png" width="500" alt="Ddeongrami interface">
+<img src="‎deongrami.png" width="500" alt="Ddeongrami interface">
 
 </div>
 
@@ -97,8 +97,14 @@ Pocketeez 的第三位小家伙来啦！进度 3/8……
 
 希望 Pocketeez 的小家伙们可以在大家工作、学习时，待在桌面上陪着你 ♡
 
-GitHub｜**Behonest1117**  
+<div align="center">
+  
+GitHub｜**Behonest1117/Pocketeez**  
+
 小红书｜**Be.honest.**
+<img src="find-me.png" width="200" alt="Ddeongrami interface">
+
+</div>
 
 ### Keep shining with Ddeongrami ✦
 
