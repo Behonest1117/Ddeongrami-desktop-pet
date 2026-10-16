@@ -27,6 +27,18 @@ Ddeongrami 会有不同的反应 ♡
 
 ### 👉 [前往 Pocketeez 系列主页](https://github.com/Behonest1117/Pocketeez)
 
+### 🗺️ 开发进度
+
+| No. | Character | Status | Version |
+| --- | --- | --- | --- |
+| 01 | [-3- Deokki](https://github.com/Behonest1117/Deokki-desktop-pet) | PUBLIC / RELEASED | Windows v1.2.1 |
+| 02 | [Cap' Jjoong](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet) | PUBLIC / RELEASED | Windows v1.1.6 |
+| 03 | **Ddeongrami** | PUBLIC / RELEASED | Windows v1.0.1 |
+| 04 | Heartyu | 开发中，将于近期上线 | - |
+| 05–08 | Waiting | NOT STARTED | — |
+
+每只 Pocketeez 使用独立版本号和独立发布记录。
+
 ---
 
 ## 💻 下载 Ddeongrami
@@ -46,7 +58,7 @@ Ddeongrami 会有不同的反应 ♡
 
 <div align="center">
 
-<img src="‎deongrami.png" width="500" alt="‎deongrami">
+<img src="./deongrami.png" width="400" alt="Ddeongrami">
 
 </div>
 
@@ -66,26 +78,13 @@ Ddeongrami 会有不同的反应 ♡
 
 <div align="center">
 
-<img src="Ddeongrami preview images.gif" width="300" alt="Ddeongrami interaction preview">
+<img src="Ddeongrami preview images.gif" width="200" alt="Ddeongrami interaction preview">
 
 </div>
 
 不同的互动方式会触发 Ddeongrami 不同的小动作和反应。
 
 一共 **8 种互动**，就留给各位梯尼慢慢发现 ♡
-
----
-
-## 🗺️ Pocketeez Progress
-
-| No. | Character | Status | Version |
-| --- | --- | --- | --- |
-| 01 | [-3- Deokki](https://github.com/Behonest1117/Deokki-desktop-pet) | PUBLIC / RELEASED | Windows v1.2.1 |
-| 02 | [Cap' Jjoong](https://github.com/Behonest1117/Cap-Jjoong-desktop-pet) | PUBLIC / RELEASED | Windows v1.1.6 |
-| 03 | **Ddeongrami** | PUBLIC / RELEASED | Windows v1.0.1 |
-| 04–08 | Waiting | NOT STARTED | — |
-
-每只 Pocketeez 使用独立版本号和独立发布记录。
 
 ---
 
