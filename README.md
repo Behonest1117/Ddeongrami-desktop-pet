@@ -46,7 +46,7 @@ Ddeongrami 会有不同的反应 ♡
 
 <div align="center">
 
-<img src="‎deongrami.png" width="500" alt="Ddeongrami interface">
+<img src="‎deongrami.png" width="500" alt="‎deongrami">
 
 </div>
 
